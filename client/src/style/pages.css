@@ -1,0 +1,67 @@
+.title {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #ddd;
+  font-size: 14px;
+}
+
+table th {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+  font-weight: bold;
+}
+
+table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.btn-edit {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 5px;
+}
+
+.btn-delete {
+  background-color: #f44336;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+nav ul{
+  list-style-type: none;
+  padding: 20px;
+  overflow: hidden;
+  background-color: #4caf50;
+  display: flex;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  margin-right: 20px;
+}
